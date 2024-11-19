@@ -6,7 +6,7 @@ The Repositorys of 6love backend and frontend are private. For security reasons,
 Yilmaz Services is located in Switzerland and creating amazing apps one of the biggest projects is the 6love aka Sixlove project
 
 The Backend is full REST API created with django restframework
-The Frontend is build with Angular 9
+The Frontend is build with Angular 18.2
 
 The infrastructure is running on Google behind a layer 4 balancer. There are actually 3 Nodes - all the nodes are connecting to a a SQL cluster. 
 The project is using YOTI for Personal Authentification. 
